@@ -1,0 +1,135 @@
+@import url(https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap);
+
+#first{
+    text-align: center;
+    font-family: Plus Jakarta Sans;
+    color: aliceblue;
+}
+
+#background{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background: url(bg2.webp)no-repeat;
+    background-size: cover;
+    background-position: center;
+    scale: 102%;
+}
+
+body{
+    overflow-x: hidden;
+    font-family: Plus Jakarta Sans;
+}
+
+/*This is just the same list feature used in style.css*/
+a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+    border-radius: 100px;
+    padding: 50px;
+    transform: scale(75%);
+    transition-duration: 1s;
+    font-size: 200%;
+    scale: 100%;
+    font-weight: 400;
+  }
+  
+
+#navigation{
+ padding-left: 25%;
+ padding-right: 25%;
+}
+
+
+
+a:hover {
+    transition-duration: 1s;
+    scale: 125%;
+    font-size: 375%;
+    font-weight: 900;
+    border-radius: 15px;
+  }
+
+/*new code from here*/
+
+#bold{
+    font-weight: 900;
+    color: #ffd375;
+}
+
+
+
+#arch{
+    background: url(Arch.png);
+}
+
+#bubble{
+    background: url(bubble.png);
+}
+
+#doodle{
+    background: url(doodle.png);
+    color: black;
+}
+
+#missile{
+    background: url(missile.png);
+}
+
+#racer{
+    background: url(racer.png);
+}
+
+#offline{
+    background:url(offline.png);
+    color: black;
+}
+
+#sky{
+    background:url(sky.png);
+}
+
+#pizza{
+    background:url(pizza.png);
+}
+
+#play{
+    background:url(play.png);
+}
+
+#on{
+    background:url(on.png);
+    color: black;
+}
+
+#lost{
+    background: url(lost.png);
+}
+
+#swag{
+    background: url(swag.png);
+}
+
+#under{
+    background: url(under.png)
+}
+
+
+#credit2{
+    background: url(credit.png);
+}
+
+#planet{
+    background: url(planet.png);
+}
+
+#asteroid{
+    background: url(asteriod.png);
+}
