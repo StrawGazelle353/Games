@@ -13,7 +13,7 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(bg2.webp)no-repeat;
+    background: url(bg2.jpg)no-repeat;
     background-size: cover;
     background-position: center;
     scale: 102%;
@@ -133,3 +133,90 @@ a:hover {
 #asteroid{
     background: url(asteriod.png);
 }
+
+#credits{
+    text-align: center;
+    color: black;
+    font-weight: 300;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    border-radius: 15px;
+}
+
+#container{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#wander{
+    background: url(wander.png);
+    color: black;
+}
+
+#evil{
+    background: url(evil.png);
+}
+
+#glitch{
+    background: url(glitch.png);
+}
+
+#chroma{
+    background: url(chroma.png);
+}
+
+#exo{
+    background:url(exo.png);
+}
+
+#push{
+    background: url(push.png);
+    color: black;
+}
+
+#haunt{
+    background: url(haunt.png);
+}
+
+#craft{
+    background: url(craft.png);
+}
+
+#elematter{
+    background: url(elematter.png);
+    color: black;
+}
+
+#back{
+    background: url(back.png);
+    color: black;
+}
+
+#you{
+    background:url(you.png);
+    color: black;
+}
+
+#vier{
+    background: url(vier.png);
+}
+
+#way{
+    background: url(way.png);
+}
+
+#exe{
+background: url(exe.png);
+}
+
+#wire{
+    background: url(wire.png);
+}
+
+#vision{
+    background: url(vision.png);
+}
+
+#mesh{
+    background: url(mesh.png);
+}
+
